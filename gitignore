@@ -1,0 +1,6 @@
+node_modules/ 
+dist/
+.emv
+.DS_store
+coverage/ 
+.vscode/ 
